@@ -1,0 +1,14 @@
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\bin\Debug\net9.0\Ejerciocio3_Interpolacion.exe
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\bin\Debug\net9.0\Ejerciocio3_Interpolacion.deps.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\bin\Debug\net9.0\Ejerciocio3_Interpolacion.runtimeconfig.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\bin\Debug\net9.0\Ejerciocio3_Interpolacion.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\bin\Debug\net9.0\Ejerciocio3_Interpolacion.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.AssemblyInfoInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.AssemblyInfo.cs
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.csproj.CoreCompileInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\refint\Ejerciocio3_Interpolacion.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\Ejerciocio3_Interpolacion.genruntimeconfig.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejerciocio3_Interpolacion\obj\Debug\net9.0\ref\Ejerciocio3_Interpolacion.dll

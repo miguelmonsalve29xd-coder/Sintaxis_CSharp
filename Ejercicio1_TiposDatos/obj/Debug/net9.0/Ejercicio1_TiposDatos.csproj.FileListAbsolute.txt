@@ -1,0 +1,14 @@
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\bin\Debug\net9.0\Ejercicio1_TiposDatos.exe
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\bin\Debug\net9.0\Ejercicio1_TiposDatos.deps.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\bin\Debug\net9.0\Ejercicio1_TiposDatos.runtimeconfig.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\bin\Debug\net9.0\Ejercicio1_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\bin\Debug\net9.0\Ejercicio1_TiposDatos.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.AssemblyInfoInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.AssemblyInfo.cs
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\refint\Ejercicio1_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\Ejercicio1_TiposDatos.genruntimeconfig.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio1_TiposDatos\obj\Debug\net9.0\ref\Ejercicio1_TiposDatos.dll

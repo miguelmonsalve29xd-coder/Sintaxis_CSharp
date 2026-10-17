@@ -1,0 +1,14 @@
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net9.0\Reto_TiposDatos.exe
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net9.0\Reto_TiposDatos.deps.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net9.0\Reto_TiposDatos.runtimeconfig.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net9.0\Reto_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net9.0\Reto_TiposDatos.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.AssemblyInfoInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.AssemblyInfo.cs
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\refint\Reto_TiposDatos.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\Reto_TiposDatos.genruntimeconfig.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net9.0\ref\Reto_TiposDatos.dll

@@ -1,0 +1,14 @@
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\bin\Debug\net9.0\Ejercicio2_Operadores.exe
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\bin\Debug\net9.0\Ejercicio2_Operadores.deps.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\bin\Debug\net9.0\Ejercicio2_Operadores.runtimeconfig.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\bin\Debug\net9.0\Ejercicio2_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\bin\Debug\net9.0\Ejercicio2_Operadores.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.AssemblyInfoInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.AssemblyInfo.cs
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\refint\Ejercicio2_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\Ejercicio2_Operadores.genruntimeconfig.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Ejercicio2_Operadores\obj\Debug\net9.0\ref\Ejercicio2_Operadores.dll

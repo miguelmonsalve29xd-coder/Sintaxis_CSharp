@@ -1,0 +1,14 @@
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net9.0\Reto_Operadores.exe
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net9.0\Reto_Operadores.deps.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net9.0\Reto_Operadores.runtimeconfig.json
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net9.0\Reto_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net9.0\Reto_Operadores.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.AssemblyInfoInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.AssemblyInfo.cs
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\refint\Reto_Operadores.dll
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.pdb
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\Reto_Operadores.genruntimeconfig.cache
+C:\Users\melquis\Documents\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net9.0\ref\Reto_Operadores.dll

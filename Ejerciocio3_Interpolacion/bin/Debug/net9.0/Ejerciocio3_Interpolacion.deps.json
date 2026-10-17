@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejerciocio3_Interpolacion/1.0.0": {
+        "runtime": {
+          "Ejerciocio3_Interpolacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejerciocio3_Interpolacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
