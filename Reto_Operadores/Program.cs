@@ -1,14 +1,20 @@
-﻿int age = 25;
-double height = 1.75;
-bool is_student = true;
-string name = "Ana";
-char grade = 'A';
+﻿int width = 7;
+int height = 5;
 
-Console.WriteLine("===Informacion del estudiante===");
-Console.WriteLine($"El nombre del estudiante es: {name}");
-Console.WriteLine($"La edad del estudiante es: {age}");
+int area = width * height;
+int perimeter = 2 * width + 2 * height;
 
-Console.WriteLine($"La altura del estudiante es: {height}");
-Console.WriteLine($"Es un estudiante? {is_student}");
-Console.WriteLine($"La calificacion del estudiante es: {grade}");
 
+
+width += 3; // Incrementa el ancho en 3
+height -= 2; // Decrementa la altura en 2
+
+area = width * height;
+perimeter = 2 * width + 2 * height;
+
+
+Console.WriteLine("=== CALCULOS DE RECTANGULO ===");
+Console.WriteLine($"Ancho: {width}");
+Console.WriteLine($"Altura: {height}");
+Console.WriteLine($"Area del rectangulo: {area}");
+Console.WriteLine($"Perimetro del rectangulo: {perimeter}");

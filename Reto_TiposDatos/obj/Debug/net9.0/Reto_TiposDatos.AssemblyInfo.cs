@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reto_TiposDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e415eb5e38c28b8a8a4b2cd918355aaee6c45f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reto_TiposDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reto_TiposDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
